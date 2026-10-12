@@ -1,4 +1,4 @@
-Pong-Unity
+Pong-Unity.
 
 A simple 2D Pong game built with Unity and C#.
 
