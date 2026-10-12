@@ -46,10 +46,4 @@ ProjectSettings/ — Unity project configuration
 
 Credits and License
 
-This project is based on the original Pong game by enessfk.
-
 The original project is distributed under the MIT License. See the LICENSE file for the applicable license terms.
-
-Screenshots
-
-Add a screenshot of the game here to show the gameplay.
