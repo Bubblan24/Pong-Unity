@@ -43,7 +43,3 @@ Assets/ — Game scripts, scenes, and assets
 Packages/ — Unity package dependencies
 
 ProjectSettings/ — Unity project configuration
-
-Credits and License
-
-The original project is distributed under the MIT License. See the LICENSE file for the applicable license terms.
